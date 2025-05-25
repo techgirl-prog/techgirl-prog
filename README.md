@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @techgirl-prog a passionate tech enthusiast and aspiring network engineer.  
+- 👋 Hi, I’m Grace Akono
+ a passionate tech enthusiast and aspiring network engineer.  
 Currently learning CCNA, Cisco Packet Tracer, and exploring tech one packet at a time! 💻🌐
 
 - 👀 I’m interested in networking, IT infrastructure, and cybersecurity basics. I enjoy understanding how devices communicate and how networks are structured and secured
